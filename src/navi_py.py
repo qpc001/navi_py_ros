@@ -168,8 +168,6 @@ def trunc(f,n):
     return float(str(f)[:slen]);
         
 
-
-
 if __name__ == '__main__':
     try:
         NavTest();
